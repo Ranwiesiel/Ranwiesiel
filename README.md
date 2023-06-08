@@ -56,8 +56,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![D3FALTXD's STATS](https://github-readme-stats.vercel.app/api?username=D3FaltXD&show_icons=true&theme=radical)
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3FaltXD&theme=radical)
+![Ranwiesiel's STATS](https://github-readme-stats.vercel.app/api?username=Ranwiesiel&show_icons=true&theme=radical)
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranwiesiel&theme=radical)
 	
 </div>
 
