@@ -93,3 +93,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 [![@D3FaltXD's Holopin board](https://holopin.io/api/user/board?user=d3falt)](https://holopin.io/@d3falt)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranwiesiel&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Ranwiesiel" />
