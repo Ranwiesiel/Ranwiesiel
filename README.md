@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 - Let's talk about **Graphics Design**
 
-- How to contact me  **kalistoroy619@gmail.com**
+- How to contact me  **ronggofc@gmail.com**
 
 - Know about my experiences <a href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf" target="blank">Resume</a></p>
 </div>
@@ -78,13 +78,13 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sayan-roy-b138b9199/">
+ <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ronggow/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/D3FaltXD">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Ranwiesiel">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/d3faltxd/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_ronggow_/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/G2Ahri">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ranwiesiel">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
@@ -92,6 +92,6 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-[![@D3FaltXD's Holopin board](https://holopin.io/api/user/board?user=d3falt)](https://holopin.io/@d3falt)
+[![An image of @ranwiesiel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ranwiesiel)](https://holopin.io/@ranwiesiel)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranwiesiel&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Ranwiesiel" />
