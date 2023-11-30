@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <p aligh="right"><img src="https://github.com/D3FaltXD/D3FaltXD/blob/e27f915259c4fafdad8c18994dbd49d31d897960/Images/image%207.png"></p>
 <p><br>
-<emphasis>T E C H &nbsp; A N D &nbsp;  T H E&nbsp;  A R TS.
-<br> G E E K  &nbsp; O F &nbsp; C Y B E R &nbsp; S E C U R I T Y.
-<br> G R A P H I C &nbsp;  A R T I S T.</emphasis>
+<emphasis>T E C H &nbsp; A N D &nbsp;  O T A K U.
+<br> I N T E R E S T E D &nbsp; I N &nbsp; T E C H N O L O G Y.
+<br> A N I M E &nbsp; L O V E R S.</emphasis>
 <img src="https://github.com/D3FaltXD/D3FaltXD/blob/9f2ea1d3dd0ad5a68b38df5153b809fd9bb2efce/Images/image_2022-09-17_164824017.png">
 </p>
 <p>
@@ -36,13 +36,13 @@ You can click the Preview link to take a look at your changes.
 
  <p align="right">
 
-- pursuing a bachelor's degree in computer science. 26th batch of Cyber Security (Hons) graduates
+- pursuing a bachelor's degree in Informatics Engineering. 26th batch of Computer Science graduates
 
-- I'm studying Python and C++ right now for <a href="https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series" target="blank">140 DSA Lec</a>
+- I'm studying Python, Javascript, PHP and SQL Lang right now for.
 
-- I'm open to freelance work.
+- ~I'm open to freelance work~.
 
-- Let's talk about **Graphics Design**
+- Let's talk about **Tech and Anime**
 
 - How to contact me  **ronggofc@gmail.com**
 
@@ -61,8 +61,6 @@ You can click the Preview link to take a look at your changes.
 	
 </div>
 
-<p><h1 align="left"> <strong>T O O L S</strong></h1>
-<img width="100%" src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png"></p></div>
 <div>
 <br> <br><br><br>
 <p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
@@ -86,8 +84,6 @@ You can click the Preview link to take a look at your changes.
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ranwiesiel">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
