@@ -90,3 +90,4 @@ You can click the Preview link to take a look at your changes.
 
 [![An image of @ranwiesiel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ranwiesiel)](https://holopin.io/@ranwiesiel)
 
+[![](https://visitcount.itsvg.in/api?id=Ranwiesiel&label=Orang%20mampir&icon=5&pretty=false)](https://visitcount.itsvg.in)
