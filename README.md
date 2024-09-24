@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1><strong>H E L L O</strong></h1>
-<h3><strong>こんにちは世界</strong></h3>
 
 <br>
 <br>
@@ -40,13 +39,10 @@ You can click the Preview link to take a look at your changes.
 
 - I'm studying Python, Javascript, PHP and SQL Lang right now.
 
-- ~I'm open to freelance work~.
-
 - Let's talk about **Tech and Anime**
 
 - How to contact me  **ronggofc@gmail.com**
-
-- Know about my experiences <a href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf" target="blank">Resume</a></p>
+</p>
 </div>
 <br><br>
 <div>
@@ -64,12 +60,10 @@ You can click the Preview link to take a look at your changes.
 <div>
 <br> <br><br><br>
 <p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
-<p align="left" >
-<div style="margin-left: 100px;">
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31oblzvzm5eg4ujodf2xzv3xt5qe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31oblzvzm5eg4ujodf2xzv3xt5qe&redirect=true)
 
-<img src=https://github.com/D3FaltXD/D3FaltXD/blob/f7bbc4c740c863c701588d4fd889ac4a9fda5759/Images/img%20right%201.png align="right">
 </div>
 <br> <br><br><br>
 <h1 align="center"><strong> Connect with me </h1></strong>
@@ -77,18 +71,11 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ronggow/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Ranwiesiel">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_ronggow_/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ranwiesiel">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
+	<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ronggow/">
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_ronggow_/">
+		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+</div>
 
 </p>
-
-[![An image of @ranwiesiel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ranwiesiel)](https://holopin.io/@ranwiesiel)
-
 [![Profile vist counter](https://visitcount.itsvg.in/api?id=Ranwiesiel&label=Orang%20mampir&icon=5&pretty=false)]()
