@@ -5,11 +5,11 @@
 - 📫 How to reach me ronggofc@gmail.com
 - 🏫 I'm currently study at University of Trunojoyo Madura 
 
-Im new here, this is my first time im using github, hope so can understand this😄
-So im a student (new) who study at University of Trunojoyo Madura
-And im majoring a Informatics Engineering in this college
-From now perhaps i will share what im interesting about
-If you want, you can teach me :3
+Im new here, this is my first time im using github, hope so can understand this😄</br>
+So im a student (new) who study at University of Trunojoyo Madura</br>
+And im majoring a Informatics Engineering in this college</br>
+From now perhaps i will share what im interesting about</br>
+If you want, you can teach me :3</br>
 
 <!---
 Ranwiesiel/Ranwiesiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +42,8 @@ You can click the Preview link to take a look at your changes.
 - Let's talk about **Tech and Anime**
 
 - How to contact me  **ronggofc@gmail.com**
+
+- ![My Resume](https://github.com/Ranwiesiel/portofolio/blob/1dde2a8f9e497aba428c90c71420c3cd64a5a1de/Ronggo%20Widjoyo-CV.pdf)
 </p>
 </div>
 <br><br>
@@ -81,4 +83,4 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-[![Profile vist counter](https://visitcount.itsvg.in/api?id=Ranwiesiel&label=Orang%20mampir&icon=5&pretty=false)]()
+![Profile Visit Counter](https://komarev.com/ghpvc/?username=Ranwiesiel&label=Orang+Gabut)
