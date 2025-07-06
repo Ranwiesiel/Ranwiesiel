@@ -1,86 +1,77 @@
-- 👋 Hi, I’m @Ranwiesiel
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on learn together
-- 📫 How to reach me ronggofc@gmail.com
-- 🏫 I'm currently study at University of Trunojoyo Madura 
+<!-- Ranwiesiel's Awesome GitHub Profile -->
 
-Im new here, this is my first time im using github, hope so can understand this😄</br>
-So im a student (new) who study at University of Trunojoyo Madura</br>
-And im majoring a Informatics Engineering in this college</br>
-From now perhaps i will share what im interesting about</br>
-If you want, you can teach me :3</br>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3o85xA5pGv5P2TjA7y/giphy.gif" width="50"/> Hi, I’m <span style="color:#F7DF1E;">Ranwiesiel</span>! <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG5K/giphy.gif" width="50"/>
+</h1>
 
-<!---
-Ranwiesiel/Ranwiesiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<h1><strong>H E L L O</strong></h1>
-
-<br>
-<br>
-<p aligh="right"><img src="https://github.com/D3FaltXD/D3FaltXD/blob/e27f915259c4fafdad8c18994dbd49d31d897960/Images/image%207.png"></p>
-<p><br>
-<emphasis>T E C H &nbsp; A N D &nbsp;  O T A K U.
-<br> I N T E R E S T E D &nbsp; I N &nbsp; T E C H N O L O G Y.
-<br> A N I M E &nbsp; L O V E R S.</emphasis>
-<img src="https://github.com/D3FaltXD/D3FaltXD/blob/9f2ea1d3dd0ad5a68b38df5153b809fd9bb2efce/Images/image_2022-09-17_164824017.png">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=%F0%9F%8D%95+%F0%9F%8D%BF+Enjoy+the+holiday+%F0%9F%8E%AE+%F0%9F%98%84" alt="Typing SVG" />
 </p>
-<p>
-<br> <br>
-<div>
-<img align="left" height:75%; width:75; src="https://github.com/D3FaltXD/D3FaltXD/blob/393d40d3d54282dbc54742aa20df06f7b9a8ef7a/Images/left%20img%201.png">
 
- <p align="right">
+---
 
-- pursuing a bachelor's degree in Informatics Engineering. 26th batch of Computer Science graduates
+## 🚀 Tech Playground
 
-- I'm studying Python, Javascript, PHP and SQL Lang right now.
-
-- Let's talk about **Tech and Anime**
-
-- How to contact me  **ronggofc@gmail.com**
-
-- ![My Resume](https://github.com/Ranwiesiel/portofolio/blob/1dde2a8f9e497aba428c90c71420c3cd64a5a1de/Ronggo%20Widjoyo-CV.pdf)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,fastapi,flask,github,discord,mongodb,postgres,express,laravel,mysql" />
 </p>
-</div>
-<br><br>
-<div>
-<br><br><br><br><br><br><br>
-<p>
-<p><h1><strong>S T A T S</strong> </h1></p>
-<br>
-<div align="left">
 
+- 🧑‍💻 **Languages:** Python, JavaScript, Node.js
+- 🌐 **Web & APIs:** FastAPI, React, HTML, CSS, RESTful magic
+- 🤖 **Bot Building:** Discord, Telegram, automation, and more
 
+---
 
-![Ranwiesiel's STATS](https://github-readme-stats.vercel.app/api?username=Ranwiesiel&show_icons=true&theme=radical)
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranwiesiel&theme=radical)
-	
-</div>
+## 🎉 About Me
 
-<div>
-<br> <br><br><br>
-<p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
-<div align="center">
+- 🎮 **Gamer at Heart:** RPGs, adventures, and retro games
+- 😄 **Fun & Friendly:** Always up for a chat and a laugh
+- 🧩 **Lifelong Learner:** I love exploring new tech and creative projects
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31oblzvzm5eg4ujodf2xzv3xt5qe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31oblzvzm5eg4ujodf2xzv3xt5qe&redirect=true)
+---
 
-</div>
-<br> <br><br><br>
-<h1 align="center"><strong> Connect with me </h1></strong>
+## ✨ What I Do
+
+- 🛠️ Build cool bots & automation
+- 🌎 Craft stunning web projects & APIs
+- 🤩 Collaborate on open-source & fun hacks
+- 💬 Share my journey & help others grow
+
+---
+
+## 🎬 Favorite Things
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyaXBza3JxaTB5ZG96Mm9ldGwwZjRreDRxcTdia3N2dWNnZTB1dDU5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="120"/>
+</p>
+
+- 🎥 Movies/Series: Drakor, Anime, Netflix binges – hit me with your recommendations!
+- 🍕 Jajan and late-night codes
+- 🎵 Chill beats, J-pop & K-pop
+
+---
+
+## 📮 Connect With Me
 
 <p align="center">
 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-	<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ronggow/">
-		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_ronggow_/">
-		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-</div>
-
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31oblzvzm5eg4ujodf2xzv3xt5qe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oblzvzm5eg4ujodf2xzv3xt5qe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+  <a href="https://github.com/Ranwiesiel" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://discord.com/users/592585000663121930" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:ronggofc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-![Profile Visit Counter](https://komarev.com/ghpvc/?username=Ranwiesiel&label=Orang+Gabut)
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Let's turn code into fun, one project at a time!</b>
+  <br>
+	<br>
+  <img src="https://komarev.com/ghpvc/?username=Ranwiesiel&label=Orang+Gabut" alt="Profile Visit Counter"/>
+</p>
